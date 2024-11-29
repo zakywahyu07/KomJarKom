@@ -1,5 +1,6 @@
-#JarKom
-##Tugas 
+# JarKom
+
+## Tugas 
 
 Nama   : Zaky Wahyu Oktavianto
 
