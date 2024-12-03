@@ -2,6 +2,8 @@
 
 Dokumen ini menjelaskan secara terperinci proses resolusi DNS, mulai dari pengguna mengetikkan nama domain hingga browser berhasil memuat halaman yang diminta.
 
+DNS adalah sebuah sistem hierarkis yang terdiri dari berbagai jenis server. Ketika Anda meminta akses ke sebuah website, permintaan tersebut akan melewati beberapa server DNS hingga akhirnya menemukan alamat IP yang sesuai. Proses ini melibatkan root server, TLD server, dan authoritative server.
+
 ---
 
 ## 1. Langkah-Langkah Resolusi DNS
